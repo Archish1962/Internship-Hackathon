@@ -1,4 +1,4 @@
-# AI Powered Educational System
+# AI Powered Educational Feedback System
 
 A Streamlit-based web application for analyzing text and code, providing comprehensive metrics on writing quality, sentiment, grammar, code syntax, logic, and more. Ideal for students, educators, and developers looking to improve their writing or programming skills.
 
