@@ -42,7 +42,7 @@ A Streamlit-based web application for analyzing text and code, providing compreh
    ```
 4. Run the application:
    ```bash
-   streamlit run app.py
+   streamlit run app_final.py
    ```
 
 ## Usage
@@ -68,7 +68,7 @@ A Streamlit-based web application for analyzing text and code, providing compreh
 See `requirements.txt` for a list of required Python packages.
 
 ## Project Structure
-- `app.py`: Main Streamlit application code
+- `app_final.py`: Main Streamlit application code
 - `requirements.txt`: List of dependencies
 - `README.md`: Project documentation
 
