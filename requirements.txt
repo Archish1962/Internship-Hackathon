@@ -1,0 +1,17 @@
+streamlit 
+
+streamlit-ace 
+
+nltk sentence-transformers 
+
+transformers 
+
+numpy 
+
+pandas 
+
+matplotlib 
+
+seaborn 
+
+plotly
